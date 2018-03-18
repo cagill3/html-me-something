@@ -79,7 +79,7 @@ table {
 
 
 #page_title{
-    background-color: mediumseagreen;
+    background-color: #b2ad7f;
     border-radius: 10px;
 }
 
@@ -105,13 +105,18 @@ table {
 }
 
 
+.footer_text{
+
+}
+
+
 body{
-    background-color: black;
+    background-color: #878f99;
 }
 
 
 div {
-    background: linear-gradient(to bottom, #800000 0%, #ff9933 100%);
+    background: #b2ad7f;
 }
 
 
@@ -127,5 +132,9 @@ p{
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family:georgia;
+    font-family:garamond;
+    margin-top: 30;
+    margin-bottom: 30;
+    margin-left: 0;
+    margin-right: 30;
 }
