@@ -69,6 +69,7 @@ table {
 
 .footer_text{
     color: white;
+    margin-left: 10;
 }
 
 
@@ -91,6 +92,12 @@ table {
     padding: 10px 10px 10px 455px;
 }
 
+#sub_title{
+    font-style: normal;
+    font-size: 2vw;
+    color:   #6b5b95;
+    padding: 10px 10px 10px 355px;
+}
 
 #jojo{
     border-radius: 10px;
