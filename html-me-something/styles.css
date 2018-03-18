@@ -87,7 +87,7 @@ table {
 #AMC{
     font-style: normal;
     font-size: 5vw;
-    color:   white;
+    color:   #6b5b95;
     padding: 10px 10px 10px 455px;
 }
 
@@ -101,12 +101,7 @@ table {
 #j_name, #j_info, #j_hobby, #bri_info,
 #bri_name, #bri_hobby, #jr_info,
 #jr_name, #jr_hobby{
-    color:   white;
-}
-
-
-.footer_text{
-
+    color:   #6b5b95;
 }
 
 
@@ -117,6 +112,8 @@ body{
 
 div {
     background: #b2ad7f;
+    margin-left: 10;
+    margin-right: 10;
 }
 
 
