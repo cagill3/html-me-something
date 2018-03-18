@@ -1,29 +1,39 @@
 #bri, #junior {
-    background-color: silver;
     border-radius: 10px;
     padding: 10px 10px 10px 10px;
 }
 
 
 #page_title{
-    background-color: black;
+    background-color: mediumseagreen;
     border-radius: 10px;
 }
 
 
 #AMC{
-    font-style: italic;
-    size: 30px;
-    color: silver;
-    padding: 10px 10px 10px 605px;
+    font-style: normal;
+    font-size: 5vw;
+    color:   honeydew;
+    padding: 10px 10px 10px 455px;
 }
 
 #jojo{
-    background-color: black;
     border-radius: 10px;
     padding: 10px 10px 10px 10px;
 }
 
-#j_name, #j_info, #hobby{
-    color: silver;
+#j_name, #j_info, #j_hobby{
+    color:   honeydew;
+}
+
+#bri_info, #bri_name, #bri_hobby, #jr_info, #jr_name, #jr_hobby{
+    color: mediumseagreen;
+}
+
+div {
+    background: linear-gradient(to bottom, #003366 0%, #336699 100%)
+}
+
+h1, h2, h3, h4, h5, h6 {
+
 }
