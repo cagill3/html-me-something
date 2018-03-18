@@ -67,9 +67,12 @@ table {
 }
 
 
-.footer_text{
+.div_text{
     color: white;
-    margin-left: 10;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
 }
 
 
@@ -109,6 +112,13 @@ table {
 #bri_name, #bri_hobby, #jr_info,
 #jr_name, #jr_hobby{
     color:   #6b5b95;
+}
+
+#bri_tree, #jo_tree, #jr_tree{
+    color: white;
+    margin-left: 10px;
+    border-radius: 10px;
+
 }
 
 
