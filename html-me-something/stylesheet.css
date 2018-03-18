@@ -1,3 +1,23 @@
+.jo_div_size{
+    width: 50%;
+}
+
+
+.junior_div_size{
+    width: 50%;
+}
+
+
+.bri_div_size{
+    width: 50%;
+}
+
+
+.footer_text{
+    color: white;
+}
+
+
 #bri, #junior {
     border-radius: 10px;
     padding: 10px 10px 10px 10px;
@@ -13,27 +33,39 @@
 #AMC{
     font-style: normal;
     font-size: 5vw;
-    color:   honeydew;
+    color:   white;
     padding: 10px 10px 10px 455px;
 }
+
 
 #jojo{
     border-radius: 10px;
     padding: 10px 10px 10px 10px;
 }
 
-#j_name, #j_info, #j_hobby{
-    color:   honeydew;
+
+#j_name, #j_info, #j_hobby, #bri_info,
+#bri_name, #bri_hobby, #jr_info,
+#jr_name, #jr_hobby{
+    color:   white;
 }
 
-#bri_info, #bri_name, #bri_hobby, #jr_info, #jr_name, #jr_hobby{
-    color:   honeydew;
+
+body{
+    background-color: black;
 }
+
 
 div {
-    background: linear-gradient(to bottom, #003366 0%, #336699 100%)
+    background: linear-gradient(to bottom, #003366 0%, #336699 100%);
 }
 
-h1, h2, h3, h4, h5, h6 {
 
+hr{
+    color: white;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: serif;
 }
