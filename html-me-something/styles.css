@@ -75,7 +75,9 @@ table {
     margin-right: 10px;
 }
 
-
+.tree_text{
+    width: 10%;
+}
 #bri, #junior {
     border-radius: 10px;
     padding: 10px 10px 10px 10px;
@@ -119,6 +121,7 @@ table {
     margin-left: 10px;
     border-radius: 10px;
 
+
 }
 
 
@@ -146,7 +149,7 @@ p{
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family:garamond;
+    font-family:palatino;
     margin-top: 30;
     margin-bottom: 30;
     margin-left: 0;
